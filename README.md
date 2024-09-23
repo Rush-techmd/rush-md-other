@@ -19,3 +19,10 @@
 අප නැවත bot ලා හදන්නැ මොකද අපෙ yt එකට subcribe නැ 
 ඒව්නාට අපේ bot ලාගෙන් කට්ටිය ගොඩ වැඩ ගන්නවා දවසකට 
 පුංචි වැඩක් subcribe කරන එක වැඩි කතා ඔන්නැ ඒකත් එපා වුනා
+
+
+## bot
+
+<a href='https://github.com/Rush-techmd/Rush-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+
+
