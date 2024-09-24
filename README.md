@@ -6,7 +6,7 @@
 
 
 ## toutorial
-<a href='https://youtu.be/ToX1KsEITl4?si=QVwSTWy3Oyk0xnHx' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/toutorial-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://youtu.be/sOXPWPHM32w?si=8isXzXmpGQxHMxAL' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/toutorial-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## rush md pair
 <a href='https://fx-session-o6in.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
