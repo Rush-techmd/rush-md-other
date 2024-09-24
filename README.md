@@ -12,7 +12,7 @@
 <a href='https://fx-session-o6in.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## deploy mounthly plan
-<a href='wa.me//762498519?text=hi_mounthly_plan_එකට_බොට්_හදලා_ඕනෙ👋' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/deploy plan mounthly-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='## Have anyone more tha 3 year old whatsapp number message to me now  https://wa.me/94711453361' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/deploy plan mounthly-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 
 
