@@ -3,8 +3,9 @@
 <p align="center">
   <a href="https://github.com/Rush-techmd"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Rush-MD+MultiDevice;Developed+by+Rush;Give+star+and+forks+this+Repo+🌟" alt="RushReadme"></a>
 </p>
-මේය අනිවාර්‍යෙන්ම කියවන්න 
+## please see this
 
+<a href='https://rush-techmd.github.io/Test/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/NOTE-pink?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## toutorial
 <a href='https://youtu.be/sOXPWPHM32w?si=8isXzXmpGQxHMxAL' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/toutorial-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
